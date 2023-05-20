@@ -6,4 +6,5 @@
 * Module2: PE02- CoreComponents
 * Module3: PE03- Todo
 * Module4: PE04- Profile Cards
+* Module5: PE05- Cities with Countries and Currency
 
